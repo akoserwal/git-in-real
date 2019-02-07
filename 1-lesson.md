@@ -25,9 +25,11 @@ git remote add ch1-remote-origin https://github.com/akoserwal/git-in-real.git
 
 ```git remote -v```
 
-### Push your local repository branch to remote location
+### Create a new branch
 
-``` 
-git push ch1-remote-origin ch1-remotes-final
-```
+``` git checkout -b ch1-remotes-final```
+
+###Push your local repository branch to remote location
+
+```git push ch1-remote-origin ch1-remotes-final```
 
