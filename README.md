@@ -11,3 +11,6 @@
 
 * Lesson 3: [Merge Conflicts](/3-lesson.md)
     - Branch: Ch3-merge
+
+* Lesson 4: [Rebase](/4-lesson.md)
+    - Branch: Ch3-rebase
