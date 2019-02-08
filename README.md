@@ -9,3 +9,5 @@
 * Lesson 2: [Amend: Rewriting history](/2-lesson.md)
     - Branch: Ch2-amend
 
+* Lesson 3: [Merge Conflicts](/3-lesson.md)
+    - Branch: Ch3-merge
