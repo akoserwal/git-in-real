@@ -1,11 +1,11 @@
 # Git-in-Real: Lesson 3
 
-# Merge-Conflicts
+# Conflicts
 
-You will encounter conflict when working within in a team or even working on your own project. 
+Merge this branch to Ch3-merge.
 
 Try merging a branch:
 
-```git merge origin/Ch3-conflict```
+```git merge origin/Ch3-merge```
 
 You will see a message about merge conflict.
