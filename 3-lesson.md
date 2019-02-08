@@ -9,3 +9,7 @@ Try merging a branch:
 ```git merge origin/Ch3-conflict```
 
 You will see a message about merge conflict.
+
+Merge conflict occurs when we are try to confuse the git system by merging changes which acts as counter to each other. Like in this case. 
+
+
