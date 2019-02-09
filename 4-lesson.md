@@ -1,3 +1,5 @@
 # Git-in-Real: Lesson 4
 
-# Rebase
+# Rebase: Rewriting history with a sequence of commits.
+
+## Feature branch
