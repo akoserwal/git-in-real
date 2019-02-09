@@ -16,12 +16,18 @@ While running you and your team mate would be in a confusion when I should pass 
 
 Better approach would be
 
-What if your team already have a head-start, He waits for your at point B. That's what we call a relay race. 
+What if your team already have a head-start, He/she waits for your at point B. That's what we call a relay race. 
 
 Same way `git rebase` will allow your team mate to re-write history and gets a head start. 
 
 
+We created two branchs from the same start point.
 
+* Ch4-rebase
+* Ch4-feature
+
+
+While working on this lesson I add couple of commits to this branch i.e `Ch4-rebase`
 
 
 
